@@ -1,0 +1,35 @@
+---
+canvas: "http://a1782b0c-c74c-44ff-98e9-3e10c6a557ac"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Building in Background",
+            "purpose": "commenting",
+            "creator": {
+                "id": "alliomeria",
+                "name": "Allison Lund"
+            },
+            "created": "2022-05-20T16:14:25.450Z",
+            "modified": "2022-05-20T16:14:29.244Z"
+        }
+    ],
+    "target": {
+        "source": "http://a1782b0c-c74c-44ff-98e9-3e10c6a557ac",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=849.0653686523438,1598.74169921875,521.6069946289062,283.8834228515625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://alliomeria.github.io/Gardens/manifests/manifest3_4-2.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "70c799e4-919e-4eff-8b37-e76ce4e6c8e0.json",
+    "motivation": "commenting"
+}
